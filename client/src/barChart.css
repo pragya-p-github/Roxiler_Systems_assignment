@@ -1,0 +1,26 @@
+.Bar-chart {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+/* Title styles */
+h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+/* Loading indicator styles */
+p.loading {
+    color: #777;
+    font-style: italic;
+}
+
+
+/* No data styles */
+p.no-data {
+    color: #777;
+}
+
